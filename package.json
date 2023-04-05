@@ -1,0 +1,43 @@
+{
+  "name": "ultradatamanager",
+  "version": "1.0.0",
+  "description": "This is a data manager for npm, with it you could convert and manage all data types to much patterns.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrique-Alons0/UltraDataManagementNodePackage.git"
+  },
+  "keywords": [
+    "format",
+    "data",
+    "data",
+    "format",
+    "data",
+    "manager",
+    "data",
+    "management",
+    "formatation",
+    "formatacao",
+    "dados",
+    "formatacao",
+    "de",
+    "dados",
+    "gerenciamento",
+    "de",
+    "dados"
+  ],
+  "author": "“henriquealonso” <“henriquethomazsilva8@gmail.com”>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Henrique-Alons0/UltraDataManagementNodePackage/issues"
+  },
+  "homepage": "https://github.com/Henrique-Alons0/UltraDataManagementNodePackage#readme",
+  "dependencies": {
+    "currency-formatter": "^1.5.9",
+    "libphonenumber-js": "^1.10.26",
+    "openexchangerates-api": "^0.0.5"
+  }
+}
